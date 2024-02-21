@@ -71,7 +71,7 @@
                     </div>
 
                     <div class="form-control">
-                        <label for="trascript">Trascript document:</label>
+                        <label for="trascript">Diploma document:</label>
                         <input type="file" id="trascript" name="transcript">
                     </div>
                 </div>

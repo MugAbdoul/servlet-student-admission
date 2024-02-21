@@ -26,7 +26,7 @@
                 <p><span class="p-label">Phone Number:</span> <%= request.getAttribute("phoneNumber") %></p>
                 <p><span class="p-label">Previous School Name:</span> <%= request.getAttribute("previousSchoolName") %></p>
                 
-                <a class="downloadBtn" href="uploads/<%= request.getAttribute("transcript") %>" download="<%= request.getAttribute("transcript") %>">Download Transcript PDF</a>
+                <a class="downloadBtn" href="uploads/<%= request.getAttribute("transcript") %>" download="<%= request.getAttribute("transcript") %>">Download Diploma PDF</a>
             </div>
             <div class="details-prof-side-2">
 
